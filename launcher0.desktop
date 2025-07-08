@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cat Code
+GenericName=Subuntu LayerCryptor
+Comment=Launch the Subuntu .cat encryption tool
+Exec=sh -c 'cd "/home/gregor/Desktop/superscrupt/projects/encrypto" && python3 cat_code.py'
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
